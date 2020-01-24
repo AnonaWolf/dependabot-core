@@ -56,3 +56,4 @@ To ensure the above are implemented, you should include
 `it_behaves_like "a dependency file updater"` in your specs for the new file
 updater.
 
+
