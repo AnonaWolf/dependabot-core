@@ -275,3 +275,4 @@ module Dependabot
     end
   end
 end
+
